@@ -6,6 +6,8 @@ Made for [Smitty](http://forums.everybodyedits.com/viewtopic.php?id=35362)
 With this you will be able to ask a user a question and then handle the answer when it happens.  
 Questions to be asked have an ID and when a user speaks the question is then attempted to be answered.
 
+[Answers and Questions are located here](https://github.com/koya-io/Everybody-Edits-Question-Handler/blob/master/EE%20Question%20Handler/bin/Debug/question.json)
+
 ##### Usage
 To initialise  
 `playerQuestions pq = new playerQuestions();`
