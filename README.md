@@ -1,6 +1,6 @@
 EE Questions Handler
 =
-Made for Smitty
+Made for [Smitty](http://forums.everybodyedits.com/viewtopic.php?id=35362)
 
 ##### About
 With this you will be able to ask a user a question and then handle the answer when it happens.  
