@@ -12,12 +12,16 @@ namespace EE_Question_Handler
         {
             Console.Title = "EE Question Handler";
             string username = "Koya";
-            pq.create(username, 0);
+            pq.create(username, 3);
+            string ans = null;
 
+            /**/
+            Console.WriteLine(pq.question(username));
+            /**/
 
+            /*Anywhere within "say"*/
+            ans = Console.ReadLine(); /*Example input method*/
 
-            /* V Within "say" V */
-            string ans = "Yes";
             if (pq.query(username)) /*Does the username have an outstanding question?*/
             {
                 switch (pq.questionid(username)) 
@@ -33,6 +37,7 @@ namespace EE_Question_Handler
                                 Console.WriteLine("User would not like the tutorial.");
                                 break;
                             default:
+                                Console.WriteLine("Answer isn't valid.");
                                 break;
                         }
                         break;
@@ -41,6 +46,10 @@ namespace EE_Question_Handler
                         {
                             int cookies = pq.testint(username, ans);
                             Console.WriteLine($"User would like {cookies} cookies!");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Answer isn't valid.");
                         }
                         break;
                     case 2: /*What would you like to name your pet?*/
@@ -64,7 +73,7 @@ namespace EE_Question_Handler
                 pq.delete(username);
             }
             /**/
-            Console.ReadKey();
+            Console.ReadKey(true);
         }
     }
     public class playerQuestions

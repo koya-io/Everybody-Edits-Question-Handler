@@ -9,3 +9,8 @@ c:\users\finley\documents\visual studio 2015\Projects\EE Question Handler\EE Que
 C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\bin\Debug\EE Question Handler.exe.config
 C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\obj\Debug\EE Question Handler.exe
 C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\obj\Debug\EE Question Handler.pdb
+C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\bin\Debug\EE Question Handler.exe
+C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\bin\Debug\EE Question Handler.pdb
+C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Finley\Documents\GitHub\Everybody-Edits-Question-Handler\EE Question Handler\obj\Debug\EE Question Handler.csprojResolveAssemblyReference.cache
